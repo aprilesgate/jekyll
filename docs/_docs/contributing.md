@@ -176,6 +176,6 @@ earthly --build-arg RUBY=jruby:9.2.14.0 +test
 
 If you've got [Visual Studio Code](https://code.visualstudio.com/) with the [Remote Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) installed then simply opening this repository in Visual Studio Code and following the prompts to "Re-open In A Development Container" will get you setup and ready to go with a fresh environment with all the requirements installed.
 
-## A thank you
+## Thank you
 
 Thanks! Hacking on Jekyll should be fun. If you find any of this hard to figure out, let us know so we can improve our process or documentation!
